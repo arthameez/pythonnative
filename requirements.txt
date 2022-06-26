@@ -20,3 +20,4 @@ pymysql==0.9.2
 python-dotenv
 APScheduler==3.6.3
 websocket-client
+elasticsearch>=7.0.0,<8.0.0
